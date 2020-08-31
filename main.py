@@ -128,3 +128,6 @@ def convert_sp_to_wr():
 
 
     spoken.show_output()
+
+
+convert_sp_to_wr()
