@@ -1,4 +1,9 @@
-# Sai Rajeswar
+# Spoken to Written English
+
+### Usage:
+ 1. Run the main.ipynb file in your local machine in jupyter notebook or any supported environments
+ 
+ 2. And the main.py file can also be used to import as package.
  
  
 ### Further additions can be made to the module:
